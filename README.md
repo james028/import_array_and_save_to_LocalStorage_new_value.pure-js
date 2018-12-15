@@ -1,2 +1,0 @@
-# import_array_and_save_to_LocalStorage_new_value.pure-js
-Created with CodeSandbox
